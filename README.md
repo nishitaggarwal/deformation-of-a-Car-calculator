@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/nishitaggarwal/deformation
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+https://nishitaggarwal.github.io/deformation-of-a-Car-calculator/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
